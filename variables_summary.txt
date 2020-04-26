@@ -1,0 +1,43 @@
+
+Minimum
+sepal_length       4.3
+sepal_width          2
+petal_length         1
+petal_width        0.1
+variety         Setosa
+dtype: object
+
+Maximum
+sepal_length          7.9
+sepal_width           4.4
+petal_length          6.9
+petal_width           2.5
+variety         Virginica
+dtype: object
+
+Mean
+sepal_length    5.843333
+sepal_width     3.057333
+petal_length    3.758000
+petal_width     1.199333
+dtype: float64
+
+Median
+sepal_length    5.80
+sepal_width     3.00
+petal_length    4.35
+petal_width     1.30
+dtype: float64
+
+Standard Deviation
+sepal_length    0.828066
+sepal_width     0.435866
+petal_length    1.765298
+petal_width     0.762238
+dtype: float64
+['Setosa' 'Versicolor' 'Virginica']
+              count      mean       std  min  25%   50%  75%  max
+sepal_length  150.0  5.843333  0.828066  4.3  5.1  5.80  6.4  7.9
+sepal_width   150.0  3.057333  0.435866  2.0  2.8  3.00  3.3  4.4
+petal_length  150.0  3.758000  1.765298  1.0  1.6  4.35  5.1  6.9
+petal_width   150.0  1.199333  0.762238  0.1  0.3  1.30  1.8  2.5
